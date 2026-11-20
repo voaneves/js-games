@@ -1,0 +1,46 @@
+{
+  "repo": "js-games",
+  "branch": "main",
+  "lang": "pt-BR",
+  "license": "MIT",
+  "name": "js-games",
+  "tagline": "Jogo da velha, pedra-papel-tesoura, cobrinha e campo minado, jogáveis no navegador.",
+  "description": "Coleção de jogos clássicos em JavaScript puro: jogo da velha, pedra-papel-tesoura, Snake e campo minado. PWA instalável.",
+  "logo": {
+    "mark": "Jg"
+  },
+  "buttons": [
+    {
+      "id": "live",
+      "text": "Jogar agora",
+      "kind": "primary",
+      "font": "sans",
+      "href": "https://voaneves.github.io/js-games/"
+    },
+    {
+      "id": "games",
+      "text": "Ver os jogos",
+      "kind": "secondary",
+      "font": "sans",
+      "href": "https://github.com/voaneves/js-games#jogos"
+    },
+    {
+      "id": "hire",
+      "text": "Vamos conversar",
+      "kind": "primary",
+      "font": "sans",
+      "href": "https://voaneves.com/#contato",
+      "landing": false
+    },
+    {
+      "id": "site",
+      "text": "voaneves.com",
+      "kind": "secondary",
+      "font": "sans",
+      "href": "https://voaneves.com/",
+      "landing": false
+    }
+  ],
+  "landing": false,
+  "live_url": "https://voaneves.github.io/js-games/"
+}
