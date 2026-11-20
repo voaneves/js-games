@@ -5,7 +5,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/voaneves/js-games/main/assets/logo/logo-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/voaneves/js-games/main/assets/logo/logo-light.svg" />
-  <img alt="Logotipo js-games: disco dividido em tinta e papel com o monograma Jg e um ponto vermelho" src="https://raw.githubusercontent.com/voaneves/js-games/main/assets/logo/logo-light.svg" width="112" height="112" />
+  <img alt="Logo do js-games: um controle de jogo, com um ponto vermelho para o aperto vencedor" src="https://raw.githubusercontent.com/voaneves/js-games/main/assets/logo/logo-light.svg" width="112" height="112" />
 </picture>
 
 <h1>js-games</h1>
